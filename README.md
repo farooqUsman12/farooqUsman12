@@ -2,19 +2,19 @@
 
 # Muhammad Farooq Usman
 
-**Frontend Developer** · Lahore
+**Frontend Developer** · 🇵🇰 Pakistan
 
 I build responsive product interfaces with React, Next.js, and TypeScript — from a Figma file to a screen that ships.
 
 <p>
-  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" /></a>
-  <a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
-  <a href="https://vuejs.org/"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
-  <a href="https://tailwindcss.com/"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
-  <a href="https://redux.js.org/"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
-  <a href="https://mui.com/"><img alt="Material UI" src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" /></a>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img alt="React" src="https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?style=flat-square&logo=vuedotjs&logoColor=white" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer"><img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /></a>
+  <a href="https://mui.com/" target="_blank" rel="noopener noreferrer"><img alt="Material UI" src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /></a>
 </p>
 
 </div>
@@ -26,6 +26,14 @@ Frontend developer with 4+ years of experience and 40+ shipped web projects. I s
 Previously a frontend developer at Celestials Technologies. I care about component structure, responsive layout, and interfaces that still feel right on a phone.
 
 Open to freelance work, collaborations, and product teams.
+
+## Upwork
+
+I take client projects on Upwork. The work is frontend: Next.js, Tailwind CSS, and interfaces taken from Figma through to a finished screen.
+
+Clients have rated that work 5 stars, and the profile has a 100% Job Success Score.
+
+<a href="https://www.upwork.com/freelancers/~01159d7e053c211409" target="_blank" rel="noopener noreferrer">View my Upwork profile</a>
 
 ## Skills
 
