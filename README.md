@@ -27,11 +27,9 @@ Previously a frontend developer at Celestials Technologies. I care about compone
 
 Open to freelance work, collaborations, and product teams.
 
-## Upwork
+## Freelance
 
-I take client projects on Upwork. The work is frontend: Next.js, Tailwind CSS, and interfaces taken from Figma through to a finished screen.
-
-Clients have rated that work 5 stars, and the profile has a 100% Job Success Score.
+I work as a freelance frontend developer, and I also take projects on Upwork. Clients there have rated the work 5 stars, and the profile has a 100% Job Success Score.
 
 <a href="https://www.upwork.com/freelancers/~01159d7e053c211409" target="_blank" rel="noopener noreferrer">View my Upwork profile</a>
 
